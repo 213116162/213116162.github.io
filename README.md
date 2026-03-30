@@ -5,7 +5,7 @@ title: Phumelela Nzewu - Network Engineer CV
 
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap; border-bottom: 2px solid #ccc; padding-bottom: 1rem; margin-bottom: 1rem;">
   <div>
-    <img src="media/image1.jpeg" alt="Phumelela Nzewu" width="150" style="border-radius: 50%;">
+    
   </div>
   <div>
     <h1 style="margin: 0;">Phumelela Nzewu</h1>
