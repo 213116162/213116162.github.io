@@ -27,7 +27,7 @@ Highest grade passed: Grade 12
 
 **Cape Peninsula University of Technology**  
 *Year:* 2014  
-Course: Advanced Communication Networks
+Course: Advanced Communications Networks
 
 **MIRO** (2020)  
 Certificate: MTCNA
