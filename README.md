@@ -75,6 +75,16 @@ Senior Network Engineer: Evan Van Zyl
 Contact: 082 872 3262
 
 
-title: Reflection
+<h1 style="margin: 0;">Reflections</h1>
 
+**Situation**  
+I needed to create a online portfolio
 
+**Task**  
+The task was to format my CV using Markdown language
+
+**Action**  
+I studied on how to use formatting tools, use headings and lists to structure the CV
+
+**Result**  
+I created a professional digital CV, while gaining technical skills
