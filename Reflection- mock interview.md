@@ -1,4 +1,4 @@
-<h1 style="margin: 0;">Reflections - Mock Interview</h1>
+<h1 style="margin: 0;">Reflection - Mock Interview</h1>
 
 **Situation**  
 As part of interview preparation for the WIL program, I was required to create a mock interview video. This meant I had to film myself answering common behavioral and technical questions, then review the recording to evaluate my performance. 
