@@ -1,8 +1,3 @@
----
-layout: default
-title: Phumelela Nzewu - Network Engineer CV
----
-
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap; border-bottom: 2px solid #ccc; padding-bottom: 1rem; margin-bottom: 1rem;">
   <div>
     
