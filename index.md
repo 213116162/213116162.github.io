@@ -105,7 +105,7 @@ The PRP370S module required a digital portfolio written in Markdown and hosted o
 I needed to turn my CV into a Markdown page with reflections. The page had to show my education, certificates, work history and references clearly. Markdown only controls structure, so the content had to be organised well enough to read without any design work.
 
 **Action**  
-I wrote the page with headings for each section, bold labels for qualifications and job titles, and lists for contact details. I listed my education and certificates from newest to oldest, so the CCNA comes before the HCIA and MTCNA. I gave each of my four roles a title, employer and dates. I added my references with their roles and contact numbers. I checked the rendered page after each change and corrected formatting that did not display as I intended. [Add one specific formatting problem you fixed.]
+I wrote the page with headings for each section, bold labels for qualifications and job titles, and lists for contact details. I listed my education and certificates from newest to oldest, so the CCNA comes before the HCIA and MTCNA. I gave each of my four roles a title, employer and dates. I added my references with their roles and contact numbers. I checked the rendered page after each change and corrected formatting that did not display as I intended. 
 
 **Result**  
 My CV is now a single page in a GitHub repository. I update it with one edit and one commit, and the history shows what changed and when. I learned the Markdown syntax I needed for headings, bold text, lists and links. I also learned that Markdown keeps content separate from layout, which is why the same file works in the repository and on the published page. I can use the same format for technical documentation such as configuration notes and runbooks.
@@ -124,7 +124,7 @@ I needed to explain my background and answer interview questions in a clear, pro
 I prepared answers from my work history and certificates. For each role on my CV, I chose the work I wanted to talk about and practised describing it in a short, structured answer. I used the same STAR structure that these reflections use. I recorded the interview, watched it back, uploaded it to YouTube and embedded it in this portfolio.
 
 **Result**  
-The video is on my portfolio page, so examiners can watch it next to my CV. It gave me practice at describing my experience out loud. Watching the recording showed me which answers were clear and which needed more detail. [Add one specific thing you would change in a real interview.]
+The video is on my portfolio page, so examiners can watch it next to my CV. It gave me practice at describing my experience out loud. Watching the recording showed me which answers were clear and which needed more detail.
 
 ---
 
