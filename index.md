@@ -99,55 +99,45 @@ Phone: 082 872 3262
 ### Reflection 1: Coding in Markdown (STAR Method)
 
 **Situation**  
-The PRP370S module required a digital portfolio written in Markdown and hosted on GitHub. I have worked in network engineering since 2015, but I had never put my CV in a version-controlled repository.
+The PRP370S module required a digital portfolio written in Markdown and hosted on GitHub. I have worked in network engineering since 2015, but my CV only existed as Word and PDF files. Each update created another copy, and I could not always tell which one was current.
 
 **Task**  
-I needed to turn my CV into a Markdown page with reflections. The page had to show my education, certificates, work history and references clearly.
+I needed to turn my CV into a Markdown page with reflections. The page had to show my education, certificates, work history and references clearly. Markdown only controls structure, so the content had to be organised well enough to read without any design work.
 
 **Action**  
-I wrote the page with headings, bold labels and lists. I listed my education and certificates from newest to oldest. I gave each of my four roles a title, employer and dates. I added my references with their roles and contact numbers.
+I wrote the page with headings for each section, bold labels for qualifications and job titles, and lists for contact details. I listed my education and certificates from newest to oldest, so the CCNA comes before the HCIA and MTCNA. I gave each of my four roles a title, employer and dates. I added my references with their roles and contact numbers. I checked the rendered page after each change and corrected formatting that did not display as I intended. [Add one specific formatting problem you fixed.]
 
 **Result**  
-My CV is now a single page in a GitHub repository. I can edit it and see the history of changes. I learned the Markdown syntax I needed to do this.
+My CV is now a single page in a GitHub repository. I update it with one edit and one commit, and the history shows what changed and when. I learned the Markdown syntax I needed for headings, bold text, lists and links. I also learned that Markdown keeps content separate from layout, which is why the same file works in the repository and on the published page. I can use the same format for technical documentation such as configuration notes and runbooks.
 
 ---
 
 ### Reflection 2: Mock interview video (STAR Method)
 
 **Situation**  
-Work readiness training required me to record a mock interview.
+Work readiness training required me to record a mock interview. I have explained my experience in writing many times, but saying it out loud on camera was a different skill.
 
 **Task**  
-I needed to explain my background and answer interview questions in a clear, professional way. My background is nine years of network roles, from Business Connexion in 2015 to Huawei Technologies today, plus MTCNA, HCIA and CCNA certificates.
+I needed to explain my background and answer interview questions in a clear, professional way. My background is nine years of network roles, from Business Connexion in 2015 to Huawei Technologies today, plus MTCNA, HCIA and CCNA certificates. The recording also had to be in a form examiners could watch without installing anything.
 
 **Action**  
-I prepared answers from my work history and certificates. I recorded the interview, uploaded it to YouTube and embedded it in this portfolio.
+I prepared answers from my work history and certificates. For each role on my CV, I chose the work I wanted to talk about and practised describing it in a short, structured answer. I used the same STAR structure that these reflections use. I recorded the interview, watched it back, uploaded it to YouTube and embedded it in this portfolio.
 
 **Result**  
-The video is on my portfolio page, so examiners can watch it next to my CV. It gave me practice at describing my experience out loud.
+The video is on my portfolio page, so examiners can watch it next to my CV. It gave me practice at describing my experience out loud. Watching the recording showed me which answers were clear and which needed more detail. [Add one specific thing you would change in a real interview.]
 
 ---
 
 ### Reflection 3: Using GitHub Pages (STAR Method)
 
 **Situation**  
-Examiners needed to open my portfolio online. A file in a repository was not enough.
+Examiners needed to open my portfolio online. A Markdown file in a repository was not enough, because it would only be readable by someone who found the repository and knew where to look. They needed a link.
 
 **Task**  
-I had to publish the portfolio as a public web page.
+I had to publish the portfolio as a public web page at a URL I could submit. I wanted this without paying for hosting or setting up a server.
 
 **Action**  
-I used a repository named 213116162.github.io and placed the portfolio in the root as `index.md`. GitHub Pages builds a repository with that name into a website.
+I created a repository named 213116162.github.io, which GitHub Pages treats as a user site. I placed the portfolio in the root as `index.md`. GitHub Pages builds a repository with that name into a website using Jekyll. I committed the file, waited for the build to finish and opened the URL to check the result. I then added the YouTube embed link and confirmed the video loaded on the live page.
 
 **Result**  
-The portfolio is live at <https://213116162.github.io>. I learned that GitHub hosts a site for free from a repository like this.
-
----
-
-## Contact
-
-- GitHub: [github.com/213116162](https://github.com/213116162)
-- Email: 213116162@mycput.ac.za
-- Portfolio: [213116162.github.io](https://213116162.github.io)
-
----
+The portfolio is live at <https://213116162.github.io>. Every change I commit updates the site after a short build. I learned that the repository name decides the URL, and that GitHub hosts a site for free from a repository like this. I also learned that anything I commit to a public repository is public, so I now check what I put in a file before I push it.
