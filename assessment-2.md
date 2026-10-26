@@ -37,7 +37,6 @@ The five artefacts follow the order of the work. The charter sets the rules. The
 |---|---|---|
 | Phumelela Nzewu | Optical Network Engineer (WIL learner) | Site detail design, OTN planning, hardware installation and configuration, site preparation, handover support |
 | Mohammed Bismilla | Mentor | Reviews work, signs the monthly report and attendance register |
-| [Name] | [Role] | [Responsibility] |
 
 **Values**
 
@@ -84,7 +83,6 @@ The weak point is that I wrote the charter from my side. I am the only learner, 
 
 ### Evidence
 
-**Task board:** [Add a Trello board screenshot or link here, if the stories and tasks are tracked there.]
 
 **US-01 Site detail design**
 As an installation engineer, I want a complete site detail design, so that I can install the site without guessing the layout, firmware or cabling.
