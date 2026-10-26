@@ -147,8 +147,7 @@ The backlog is ordered by priority. Points are my relative estimates (1 is a sma
 | PB-09 | Site acceptance, 14 sites | US-04 | High | 8 | Done | S9 |
 | PB-10 | July report and attendance register | US-05 | Medium | 2 | Done | S1 to S5 |
 | PB-11 | August report and attendance register | US-05 | Medium | 2 | Done | S6 to S9 |
-| PB-12 | Install the sites designed in July and August | US-01 | High | [ ] | Next | [ ] |
-| PB-13 | September report and attendance register | US-05 | Medium | 2 | Next | [ ] |
+| PB-12 | Install the sites designed in July and August | US-01 | High | 8 | Done | S9 |
 
 ### Reflection
 
