@@ -234,8 +234,8 @@ If I plan another handover sprint, I will add a buffer day before the customer v
 
 **Supporting evidence**
 
-- July internship report and attendance register: [link or redacted PDF]
-- August internship report and attendance register: [link or redacted PDF]
+- [July internship report and attendance register](report-and-register-july-2026.pdf)
+- [August internship report and attendance register](report-and-register-august-2026.pdf)
 
 ### Reflection
 
