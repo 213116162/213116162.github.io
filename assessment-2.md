@@ -9,7 +9,7 @@
 **Project:** Optical transmission network (OTN) site delivery: design, preparation and customer handover  
 **Period covered:** 29 June to 28 August 2026, as nine one-week sprints  
 
-Customer names, site names, addresses, IP plans and firmware versions are left out of this portfolio because they belong to the customer.
+Customer name, addresses, IP plans and firmware versions are left out of this portfolio because they belong to the customer. The network screenshots show shortened site labels from the management system.
 
 ## Contents
 
@@ -31,12 +31,27 @@ The five artefacts follow the order of the work. The charter sets the rules. The
 
 **Purpose:** Deliver optical transmission network sites that are documented correctly, labelled correctly and working when the customer accepts them.
 
+**Network scope:** The project builds the transmission network in three regions. The screenshots show the network management system's topology view for each region, with site names shortened by the system.
+
+![Western Cape region network topology](network-western-cape.png)
+
+*Figure 1: Western Cape region.*
+
+![KwaZulu-Natal region network topology](network-kwazulu-natal.png)
+
+*Figure 2: KwaZulu-Natal region.*
+
+![Gauteng region network topology](network-gauteng.png)
+
+*Figure 3: Gauteng region.*
+
 **Team and roles**
 
 | Name | Role | Responsibility |
 |---|---|---|
 | Phumelela Nzewu | Optical Network Engineer (WIL learner) | Site detail design, OTN planning, hardware installation and configuration, site preparation, handover support |
 | Mohammed Bismilla | Mentor | Reviews work, signs the monthly report and attendance register |
+| Lepepule Maanaso | Wireless (RAN) Engineer | Site detail design, Radio Access Network (RAN) planning, configuration, site preparation, handover support |
 
 **Values**
 
