@@ -3,7 +3,7 @@
 **Student:** Phumelela Nzewu (213116162)  
 **Qualification:** Diploma in ICT: Communication Networks, CPUT  
 **Subject:** Project Presentation 3 (PRP370S), Assessment 2  
-**Host employer:** Huawei Technologies, Information Technology department  
+**Host employer:** Huawei Technologies, Enterprise Business Unit (Networks)  
 **Role:** Optical Network Engineer  
 **Mentor:** Mohammed Bismilla  
 **Project:** Optical transmission network (OTN) site delivery: design, preparation and customer handover  
