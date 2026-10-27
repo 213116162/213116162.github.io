@@ -93,7 +93,7 @@ Phone: 082 872 3262
 **Direct Link:** [Watch on YouTube](https://youtu.be/R1U9AZ3G_08)
 
 ---
-## Assessment 2: Agile portfolio (industry placement)
+##Agile portfolio (industry placement)
 
 [Open the Agile portfolio](assessment-2.html)
 
