@@ -93,9 +93,6 @@ Phone: 082 872 3262
 **Direct Link:** [Watch on YouTube](https://youtu.be/R1U9AZ3G_08)
 
 ---
-## Agile portfolio (industry placement)
-
-[Open the Agile portfolio](assessment-2.html)
 
 
 ## 📝 Reflections
@@ -146,8 +143,9 @@ I created a repository named 213116162.github.io, which GitHub Pages treats as a
 **Result**  
 The portfolio is live at <https://213116162.github.io>. Every change I commit updates the site after a short build. I learned that the repository name decides the URL, and that GitHub hosts a site for free from a repository like this. I also learned that anything I commit to a public repository is public, so I now check what I put in a file before I push it.
 
-
-
+---
+---
+---
 # Industry placement: Agile portfolio
 
 **Student:** Phumelela Nzewu (213116162)  
